@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pngpaste - > /tmp/ocr.png
+tesseract /tmp/ocr.png stdout -l swe | pbcopy
+rm /tmp/ocr.png
