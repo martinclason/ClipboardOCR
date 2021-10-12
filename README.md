@@ -4,7 +4,10 @@
 - Install homebrew www.brew.sh
 - Install tesseract-lang with `brew install tesseract-lang`
 - Install pngpaste with `brew install pngpaste`
-- Run install script `install.sh`
+- Clone this repository by opening a Terminal window and typing `git clone git@github.com:martinclason/ClipboardOCR.git` and hitting enter.
+- Navigate into the downloaded repository by running `cd ClipboardOCR`.
+- Run install script by typing `sudo bash install.sh` and also typing your password when prompted and hitting enter (this works even though no characters show when you type your password).
+- You are now free to close this Terminal window.
 
 ## Using script
 Copy the image you want to transform to text with the bulit in CMD-SHIFT-4 shortcut in MacOS that stores the resulting image in the clipboard.
