@@ -3,7 +3,7 @@
 ## Getting started
 - Install homebrew www.brew.sh
 - Install tesseract-lang by typing `brew install tesseract-lang` and hitting enter in a Terminal window.
-- Then install pngpaste with `brew install pngpaste` in the smae way as above.
+- Then install pngpaste with `brew install pngpaste` in the same way as above.
 - Clone this repository by opening a Terminal window and typing `git clone git@github.com:martinclason/ClipboardOCR.git` and hitting enter.
 - Navigate into the downloaded repository by running `cd ClipboardOCR`.
 - Run install script by typing `sudo bash install.sh` and also typing your password when prompted and hitting enter (this works even though no characters show when you type your password).
